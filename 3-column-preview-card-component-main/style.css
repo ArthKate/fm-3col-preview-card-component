@@ -130,6 +130,10 @@ button {
     width: 65rem;
   }
   
+  .card {
+    flex: 1;
+  }
+  
   p {
     padding-bottom: var(--layout-padding);
   }
